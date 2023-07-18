@@ -1,0 +1,4 @@
+node_modules/
+build/
+public/
+vite.config.ts
